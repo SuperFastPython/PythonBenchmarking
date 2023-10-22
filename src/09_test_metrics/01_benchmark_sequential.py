@@ -1,6 +1,6 @@
 # SuperFastPython.com
 # example of a program that executes tasks sequentially
-from time import time
+from time import perf_counter
 from time import sleep
 
 # task function
@@ -17,10 +17,10 @@ def main():
 # protect the entry point
 if __name__ == '__main__':
     # record start time
-    time_start = time()
+    time_start = perf_counter()
     # call benchmark code
     main()
     # calculate the duration
-    time_duration = time() - time_start
+    time_duration = perf_counter() - time_start
     # report the duration
     print(f'Took {time_duration:.3f} seconds')

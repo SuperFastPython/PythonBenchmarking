@@ -1,5 +1,5 @@
 # SuperFastPython.com
-# example of a custom stopwatch timer class with resume support
+# example of a custom stopwatch timer class with resume
 from time import perf_counter
 
 # custom stopwatch timer class that can be resumed
