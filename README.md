@@ -18,7 +18,13 @@ You can access all Python .py files directly here:
 ## Get the Book
 You can learn more about the book here:
 
-* Coming Soon
+* [Book Homepage](https://superfastpython.com/python-benchmarking/)
+* [Gumroad](https://superfastpython.gumroad.com/l/pb)
+* [Amazon Kindle](https://amzn.to/3SjWqCR)
+* [Amazon Paperback](https://amzn.to/3QxSUU1)
+* [Google Books](http://books.google.com/books/about?id=iRDfEAAAQBAJ)
+* [Google Play](https://play.google.com/store/books/details?id=iRDfEAAAQBAJ)
+* [Goodreads](https://www.goodreads.com/book/show/200626208-python-benchmarking)
 
 ### Book Blurb
 
